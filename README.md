@@ -1,8 +1,10 @@
 # Kyle Kovary
 
+<!--
 ![Kyle's profile](https://github-readme-stats.vercel.app/api?username=kkovary&show_icons=true&count_private=true&hide=stars&include_all_commits=true&count_private=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkovary&hide=html&layout=compact&theme=dracula)
+-->
 
 <!--
 **kkovary/kkovary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
